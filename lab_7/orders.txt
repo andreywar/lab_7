@@ -1,0 +1,10 @@
+Ivanova paper1 photo1 10 50.5
+Petrova paper2 photo2 5 30.0
+Sidorov paper3 photo3 15 25.0
+Smirnov paper4 photo4 8 40.0
+Kalosha paper5 photo5 20 50.5
+Tikhomirov paper6 photo6 12 30.0
+Uhatov paper7 photo7 7 40.0
+Lybin paper8 photo8 9 25.0
+Kozlova paper9 photo9 6 25.0
+Motora paper10 photo10 18 40.0
